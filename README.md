@@ -1,6 +1,6 @@
-# HOSTING LITERASI
+# WEBSITE DZULY
 
-Ini adalah hosting pertama Dzulyan Arya NPM 714250026 via Github.
+Ini adalah Website (hosting & domain) pertama Dzulyan Arya NPM 714250026 via Github.
 -----
 
 ## 🌐 Perbedaan Domain dan Hosting
